@@ -1,7 +1,7 @@
-<h2> WEEK 7</h2>
-<h2> PROJECT: SIMPLE PAINT</h2>
+## WEEK 7
+## PROJECT: SIMPLE PAINT
 A simle paint program using C++
-##Function##
+## Function
 Drawing 5 basic shapes:
 * Line
 * Rectangle
