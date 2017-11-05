@@ -1,3 +1,3 @@
 ﻿  SimplePaint.cpp
-c:\users\dieungocbao\source\repos\simplepaint\simplepaint\simplepaint.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\dieungocbao\source\repos\simplepaint\simplepaint\simplepaint.cpp(440): warning C4018: '<': signed/unsigned mismatch
   SimplePaint.vcxproj -> C:\Users\dieungocbao\source\repos\SimplePaint\Debug\SimplePaint.exe
