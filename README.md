@@ -9,5 +9,5 @@ Drawing 5 basic shapes:
 * Ellipse
 * Circle
 ## Link
-Demo Youtube: https://youtu.be/YbfeVvFHMsE
-Github: https://github.com/dieungocbao/LTWindow-SimplePaint
+* Demo Youtube: https://youtu.be/YbfeVvFHMsE
+* Github: https://github.com/dieungocbao/LTWindow-SimplePaint
