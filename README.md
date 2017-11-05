@@ -8,3 +8,6 @@ Drawing 5 basic shapes:
 * Square
 * Ellipse
 * Circle
+## Link
+Demo Youtube: https://youtu.be/YbfeVvFHMsE
+Github: https://github.com/dieungocbao/LTWindow-SimplePaint
