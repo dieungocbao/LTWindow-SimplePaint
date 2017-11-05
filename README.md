@@ -1,6 +1,6 @@
 ## WEEK 7
-## PROJECT: SIMPLE PAINT
-A simle paint program using C++
+## PROJECT: SIMPLE PAINT PROGRAM
+A simple paint program using C++
 ## Function
 Drawing 5 basic shapes:
 * Line
